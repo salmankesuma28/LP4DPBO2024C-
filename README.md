@@ -9,7 +9,8 @@ Compile Python: python (nama file).py
 
 UML Class Diagram:
 
-![LP4](https://github.com/salmankesuma28/LP4DPBO2024C-/assets/119721278/71af6eb5-ba6d-4903-b080-0b4cbcb19a07)
+![LP4 drawio (1)](https://github.com/salmankesuma28/LP4DPBO2024C-/assets/119721278/670fe6a2-5bef-4161-a980-011776fca3fc)
+
 
 Program mempunyai 5 kelas, yaitu: vehicle, Car, Motorcycle, Garage, dan Parkinglot.
 Penjelasan relasi: Vehicle merupakan parent utama, memiliki child Car dan Motorcycle adalah kendaraan,  selanjutnya untuk composite ada Garage dan Parking lot dimana garage dan parkinglot mempunyai(has a) Car dan Motorcycle. Car memiliki garage/parkinglot yang diikuti serta motrocycle.
